@@ -1,0 +1,10 @@
+#This is my R Markdown file I am creating
+
+This is *a little* difficult to understand how to do but **I AM GOING TO FIGURE IT OUT**.
+
+```{r}
+  this is where embedded 
+r code can be inserted
+```
+
+#This is just an example, it is not exactly meant to work correctly
